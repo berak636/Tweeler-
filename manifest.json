@@ -1,0 +1,13 @@
+{
+    "name": "Tweetler",
+    "version": "1.0",
+    "description": "Twitter extension",
+    "manifest_version": 2,
+    "permissions": [
+      "tabs"
+    ],
+    "browser_action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
